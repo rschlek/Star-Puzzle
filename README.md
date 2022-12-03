@@ -1,11 +1,10 @@
-# Programming Assignment Star Battle Puzzles
+# Star Puzzle
 
-* Name: Rainier S, Ashwin D, Vicky K, Ryan Y
-* Course/Semester: CSCI 390 Spring 2022
-* Class Section: 01
-* Lab section: N/A
-* Sources consulted: https://krazydad.com/starbattle/
-* Comments for grader:  
+This was an assignment I completed on a 4 person team at PLU for CS390 (Object Oriented Design). The goal of the project was to learn good system design, as well as server client interaction. Also in this file are some of our presentations, which go over the design process and our final system.
+
+
+### TO RUN:
+
 Start the server in class "StarbServer" and run "StarbClient." 
 In the GUI window, click start new puzzle. In our puzzle, 10x10, each row, column, and bolded region
 must contain 2 stars each, and stars must not be
