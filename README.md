@@ -1,6 +1,6 @@
 # Star Puzzle
 
-This was an assignment I completed on a 4 person team at PLU for CS390 (Object Oriented Design). The goal of the project was to learn good system design, as well as server client interaction. Also in this file are some of our presentations, which go over the design process and our final system.
+This was an assignment I completed on a 4 person team at PLU for CS390 (Object Oriented Design). The goal of the project was to learn good system design, as well as server client interaction.
 
 
 ### TO RUN:
